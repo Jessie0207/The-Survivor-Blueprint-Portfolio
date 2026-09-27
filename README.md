@@ -123,8 +123,7 @@ A short routing function connects the current target to the appropriate response
 
 **Blueprint location:** XR Pawn / TryInteract and TryOpenFocusedDoor.
 
-**Graph evidence:** [Module export guide](GRAPHS/03-interaction-dispatch/README.md). **BlueprintUE:** pending source export.
-
+**Graph evidence:** [Module export guide](GRAPHS/03-interaction-dispatch/README.md). **BlueprintUE:** [View Blueprint — TryInteract](https://blueprintue.com/blueprint/2sl29jkw/)    
 ### System Overview
 
 - TryInteract checks the FocusedTarotCard reference with Is Valid.
