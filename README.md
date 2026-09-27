@@ -24,7 +24,7 @@ Keyboard and mouse controls extend the pawn used for the VR experience, allowing
 
 <!-- 编辑提示：模块 1，XRPawn：键鼠输入与 VR 交互接入。只需把下面的 Link to be added. 换成你的 Markdown 链接。 -->
 
-**BlueprintUE — Desktop input:** Link to be added.
+**BlueprintUE — Desktop input:** [XR Pawn — custom input logic in the Event Graph.](https://blueprintue.com/blueprint/z6c8wtm0/)
 
 **BlueprintUE — VR interaction routing:** Link to be added.
 
@@ -48,9 +48,9 @@ The targeting system identifies the card under the player’s aim and provides v
 
 <!-- 编辑提示：模块 2，卡牌射线定位与高亮。只需把下面的 Link to be added. 换成你的 Markdown 链接。 -->
 
-**BlueprintUE — UpdateTarotFocus:** Link to be added.
+**BlueprintUE — UpdateTarotFocus:**[ UpdateTarotFocus](https://blueprintue.com/blueprint/3e6js8qd/)
 
-**BlueprintUE — Card focus feedback:** Link to be added.
+**BlueprintUE — Card focus feedback:** [](https://blueprintue.com/blueprint/nabim7q1/)
 
 ### System Overview
 
@@ -75,7 +75,7 @@ A routing function connects the player’s input to a tarot card or, when no val
 
 **BlueprintUE — TryInteract:** [View Blueprint](https://blueprintue.com/blueprint/2sl29jkw/)
 
-**BlueprintUE — TryOpenFocusedDoor:** Link to be added.
+**BlueprintUE — TryOpenFocusedDoor:** [](https://blueprintue.com/blueprint/w9yfbp_7/)
 
 ### System Overview
 
@@ -98,7 +98,7 @@ Activating a tarot card produces a visible response before loading its associate
 
 <!-- 编辑提示：模块 4，卡牌激活与进入关卡。只需把下面的 Link to be added. 换成你的 Markdown 链接。 -->
 
-**BlueprintUE — Card activation and level entry:** Link to be added.
+**BlueprintUE — Card activation and level entry:** [](https://blueprintue.com/blueprint/uoar0ozi/)
 
 ### System Overview
 
@@ -121,9 +121,8 @@ Returning to The Shop removes the completed encounter’s card, making absence a
 
 <!-- 编辑提示：模块 5，完成记录、卡牌消失与终章条件。只需把下面的 Link to be added. 换成你的 Markdown 链接。 -->
 
-**BlueprintUE — Completion and return:** Link to be added.
-
-**BlueprintUE — Card state restoration:** Link to be added.
+**BlueprintUE — Completion and return:** [](https://blueprintue.com/blueprint/n7rxniqr/)
+**BlueprintUE — Card state restoration:** [](https://blueprintue.com/blueprint/_xqhadxp/)
 
 **BlueprintUE — Ending condition:** Link to be added.
 
@@ -148,9 +147,8 @@ Floating text and narration introduce each crowd’s condition and describe the 
 
 <!-- 编辑提示：模块 6，浮动文字、触发与旁白。只需把下面的 Link to be added. 换成你的 Markdown 链接。 -->
 
-**BlueprintUE — Narrative trigger:** Link to be added.
 
-**BlueprintUE — Text display and audio timing:** Link to be added.
+**BlueprintUE — Text display and audio timing:** [](https://blueprintue.com/blueprint/s5gze7qh/)
 
 ### System Overview
 
@@ -173,7 +171,7 @@ Ringing the bell turns the player from an observer into a participant in the col
 
 <!-- 编辑提示：模块 7，第一关：敲铃与指认。只需把下面的 Link to be added. 换成你的 Markdown 链接。 -->
 
-**BlueprintUE — Bell interaction and scene response:** Link to be added.
+**BlueprintUE — Bell interaction and scene response:** [](https://blueprintue.com/blueprint/b9bl7wy_/)
 
 ### System Overview
 
@@ -196,8 +194,7 @@ A door appears as the player approaches the blue slit. Crossing it places the pl
 
 <!-- 编辑提示：模块 8，第二关：门显现、打开与通过。只需把下面的 Link to be added. 换成你的 Markdown 链接。 -->
 
-**BlueprintUE — Door reveal, opening and passage:** Link to be added.
-
+**BlueprintUE — Door reveal, opening and passage:**[](https://blueprintue.com/blueprint/o2lwg8d-/)
 ### System Overview
 
 - Approaching the opening reveals the door.
@@ -219,9 +216,9 @@ Automatic travel establishes shared motion before the environment gradually beco
 
 <!-- 编辑提示：模块 9，第三关：蜘蛛行进与分阶段停止。只需把下面的 Link to be added. 换成你的 Markdown 链接。 -->
 
-**BlueprintUE — Automatic travel:** Link to be added.
+**BlueprintUE — Automatic travel:** [](https://blueprintue.com/blueprint/qa3jvoeb/)
 
-**BlueprintUE — Staged stillness:** Link to be added.
+**BlueprintUE — Staged stillness:** [](https://blueprintue.com/blueprint/yx7l0x2h/)
 
 ### System Overview
 
@@ -244,10 +241,9 @@ Turning the hourglass exchanges ruler and subject positions while the scene’s 
 
 <!-- 编辑提示：模块 10，第四关：沙漏翻转与王冠响应。只需把下面的 Link to be added. 换成你的 Markdown 链接。 -->
 
-**BlueprintUE — Hourglass interaction:** Link to be added.
+**BlueprintUE — Hourglass interaction:** [](https://blueprintue.com/blueprint/e02d0ubl/)
 
-**BlueprintUE — Rotation and crown response:** Link to be added.
-
+**BlueprintUE — Rotation and crown response:** [](https://blueprintue.com/blueprint/yyn4_jd4/)
 ### System Overview
 
 - The player’s hourglass interaction activates the reversal.
@@ -292,10 +288,9 @@ The knife interaction converts the player’s action into the event that advance
 
 <!-- 编辑提示：模块 12，第五关：持刀与刺入检测。只需把下面的 Link to be added. 换成你的 Markdown 链接。 -->
 
-**BlueprintUE — Knife handling:** Link to be added.
+**BlueprintUE — Knife handling:** [](https://blueprintue.com/blueprint/wuf54sx2/)
 
-**BlueprintUE — Stab detection:** Link to be added.
-
+**BlueprintUE — Stab detection:** [](https://blueprintue.com/blueprint/bfn3njgg/)
 ### System Overview
 
 - The knife’s hand relationship supports the VR action, with a desktop input path for the same encounter.
@@ -317,7 +312,7 @@ The accepted stab coordinates the dish response, consequence narration and the l
 
 <!-- 编辑提示：模块 13，第五关：刺菜反馈与叙事时序。只需把下面的 Link to be added. 换成你的 Markdown 链接。 -->
 
-**BlueprintUE — Stab response and narrative timing:** Link to be added.
+**BlueprintUE — Stab response and narrative timing:** [](https://blueprintue.com/blueprint/z4qd87p7/)
 
 ### System Overview
 
@@ -340,7 +335,7 @@ The chandelier’s fall gives the feast’s final action a large spatial consequ
 
 <!-- 编辑提示：模块 14，第五关：吊灯坠落。只需把下面的 Link to be added. 换成你的 Markdown 链接。 -->
 
-**BlueprintUE — Chandelier fall:** Link to be added.
+**BlueprintUE — Chandelier fall and swing:** [](https://blueprintue.com/blueprint/sn15xg8e/)
 
 ### System Overview
 
@@ -363,8 +358,7 @@ After the five encounters, the sixth card appears and the familiar Shop becomes 
 
 <!-- 编辑提示：模块 15，终章：第六张牌与商店燃烧。只需把下面的 Link to be added. 换成你的 Markdown 链接。 -->
 
-**BlueprintUE — Survivor reveal and staged fire:** Link to be added.
-
+**BlueprintUE — Survivor reveal and staged fire:**[](https://blueprintue.com/blueprint/fu5luw7v/)
 ### System Overview
 
 - The completion condition starts the Survivor card reveal.
@@ -386,9 +380,9 @@ Alternating darkness and visibility closes the Shop sequence before The Survivor
 
 <!-- 编辑提示：模块 16，终章：眨眼黑屏与最终标题。只需把下面的 Link to be added. 换成你的 Markdown 链接。 -->
 
-**BlueprintUE — Blink sequence:** Link to be added.
+**BlueprintUE — Blink sequence and Final title:** [](https://blueprintue.com/blueprint/aedmgqv0/)
 
-**BlueprintUE — Final title:** Link to be added.
+
 
 ### System Overview
 
