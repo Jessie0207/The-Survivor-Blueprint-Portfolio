@@ -1,2 +1,11 @@
-# Auto detect text files and perform LF normalization
 * text=auto
+*.md text eol=lf
+*.txt text eol=lf
+*.csv text eol=lf
+*.json text eol=lf
+*.uasset binary
+*.umap binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+# Git LFS is not configured by this file. Configure it explicitly if needed.

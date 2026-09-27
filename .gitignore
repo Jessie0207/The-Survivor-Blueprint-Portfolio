@@ -1,0 +1,14 @@
+# Unreal-generated local data; source Blueprints and graph exports remain tracked.
+**/Binaries/
+**/Intermediate/
+**/DerivedDataCache/
+**/Saved/
+**/.vs/
+*.sln
+*.suo
+*.VC.db
+*.VC.opendb
+*_BuiltData.uasset
+.DS_Store
+Thumbs.db
+__pycache__/
